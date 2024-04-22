@@ -1,9 +1,19 @@
 # Table of contents
 
-## Tokenomics
+## 👋 WELCOME
 
-* [$RAFL Supply](README.md)
+* [🧠 How It Works](README.md)
+* [⛓️ Links](welcome/links.md)
+* [🛣️ Roadmap](welcome/roadmap.md)
+
+## 🪙 Tokenomics
+
+* [💲 $RAFL Token Info](tokenomics/usdrafl-token-info.md)
+* [✨ Fees/Taxes](tokenomics/fees-taxes.md)
+* [🤑 How To Buy $RAFL](tokenomics/how-to-buy-usdrafl.md)
 
 ## FAQ
 
-* [How to Buy $RAFL](faq/how-to-buy-usdrafl.md)
+* [🔥 Quarterly $RAFL Burns](faq/quarterly-usdrafl-burns.md)
+* [🔒 Revenue Sharing Vault](faq/revenue-sharing-vault.md)
+* [😢 Troubleshooting](faq/troubleshooting.md)
