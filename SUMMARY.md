@@ -11,6 +11,7 @@
 * [💲 $RAFL Token Info](tokenomics/usdrafl-token-info.md)
 * [✨ Fees/Taxes](tokenomics/fees-taxes.md)
 * [🤑 How To Buy $RAFL](tokenomics/how-to-buy-usdrafl.md)
+* [🛡️ Audit/Security](tokenomics/audit-security.md)
 
 ## FAQ
 
