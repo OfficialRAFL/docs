@@ -35,4 +35,6 @@
 
 ## Staking & Live Draws 🎰
 
-* Coming Soon 👀
+* $RAFL Staking
+
+{% embed url="https://win.rafl.co/" %}
